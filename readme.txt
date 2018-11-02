@@ -1,2 +1,3 @@
 Git is ok!
-Git is very strong!
+Git is a very strong tool!
+Git is a very good tool!
